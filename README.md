@@ -1,6 +1,8 @@
 # Automação de Cadastro de Produtos
 
 Este projeto tem como objetivo automatizar o processo de cadastro de produtos em um sistema web utilizando o **PyAutoGUI** para controle da interface gráfica e o **Pandas** para manipulação de arquivos CSV.
+![image](https://github.com/user-attachments/assets/e38cd000-4af7-4573-8f74-13a000e9d025)
+
 
 ## Funcionalidades
 
